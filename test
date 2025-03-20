@@ -23,3 +23,41 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="https://iptvsystem.my.id/img/hbosig.png" ,HBO Signature (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01019b6ffe7f731d4bbb5b4036524537":"3a9f4a9f151e6470c0e961442a2b82b8","0102e8614c300fb887aeb8607609d8fb":"dfe079ddcfedbf6f07645cef53bdfaa5","0105a4272944a95c347a898b6eaa716e":"4971b587a19c099fad8ed95d4f5044f1","01002674bb019061f5186e8657b3ab7c":"f8c0ea571df5597c278ea8c44fa6ad1a"}
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://i.imgur.com/esz4fys.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="Max",HBO
+https://fly.live.us.prd.media.max.com/live/use1/052_Ciw0NTJlNWQ3OC0xY2NhLTU5YTktODUwOC0yMWIyNWQ4MTM4NzQtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0101d7518f3317d1dd4dd10141cd6320":"7bceb819ea86ab1e0f5e2f8466b1741e","010260b81aef4e3bfa4f873464854253":"563c3e9f9fe9c4349904cf0df045eaf6","0105007b19592a95e73f28cce4c3740d":"e070a1c196b168976787586c066d3d27","01003b4d58c48d560edb0af47b9b0a5b":"bf0085e1e1b01718d8beb2484526ae2a"}
+#EXTINF:-1 tvg-id="HBO2" tvg-logo="https://i.imgur.com/xvYG2bn.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="Max",HBO2
+https://fly.live.us.prd.media.max.com/live/use1/dc5_Ciw5YWEzM2Y4ZS00ZTdlLTUzZTYtODQzYy0zNzA3MzJlNDI5NjAtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0101df68310b960ec462e9f88cfd18b5":"03f22d8faaad8ce0b90a733221aa7bc7","0102b588c9d7c8c23095f4cf4564f638":"26211c5b448a79283dafcca7575794f5","01056d288434c104afe72ffc7017c811":"0d6252588df2c1ddac57e305625957b8","01003993cf6c20cfa1870f3967e5364f":"8d841de68f548f70e4838495e356779b"}
+#EXTINF:-1 tvg-id="hbosign" tvg-logo="https://i.imgur.com/BZwDYlW.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="Max",HBO Signature
+https://cf.live.us.prd.media.max.com/live/use1/407_CixiNzYyMjE4Ni1iMTEwLTU4YmUtOTIyZi1hNDJhMmRhZmUyOWUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"010129738f6016455d69e5b8946a3006":"03f9f889bd8828118353f3e4f2ceb03d","0102db3daf7bfe425bc87e2ef11b5f54":"2a552469376c3cbe13c560bc8bdb3753","0105adbafc99cb2ff2777bb1bb26996f":"55c7083aa1887f77accdc9ec540d3f1b","0100195ac20d4c5d670d6ac3a9b30c5f":"68aa8a3a3c9bbe71195aa562b23cf696"}
+#EXTINF:-1 tvg-id="hbocomedy" tvg-logo="https://i.imgur.com/MmT4Rcy.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="Max",HBO Comedy
+https://akm.live.us.prd.media.max.com/live/use1/a28_CiwwZTk1YWRhNC0xMjlhLTU3NTktOWQ4YS1kMDRhYzM0OTIyM2ItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0101d446569f83c252984087a2134e53":"680be34b4a9c9264771b1983b1fdc99c","01025975307b5c0501e871030074aace":"b0105302cbae23d951beb12690056536","01054c395afda28e2d011e24f9f06366":"8be94833f27311300837091a3040d824","010046cabb98a07e4cdf09c3efb3c121":"19b0f83f56620f27f1579a81dbe6c88d"}
+#EXTINF:-1 tvg-id="hbozone" tvg-logo="https://i.imgur.com/yJiXqiC.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="Max",HBO Zone
+https://gcp.live.na.prd.media.max.com/live/use1/e91_CixhY2EwNjZmYi05OGJiLTU3NmItYjg2YS0zZDRhZmVkN2ZiOGUtdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"0101037beec79e7a6521510e4999aa61":"fbc0ae276b55bb4ebb8b82a665a0909e","010259c4b5d65c7405be37a326737fb8":"b71d75b6c1ca3972a5b4724390e04ca0","0105e0d6b6e1980efd59652a9f29028c":"9034d3fd0391598cd2ea8d9abfee3438","0100a597db9c45c84b1c5053682c2c2e":"843d4a60993f5191071bd732ccb17025"}
+#EXTVLCOPT:http-referrer=https://www.max.com/
+#EXTINF:-1 tvg-id="cnn" tvg-logo="https://i.imgur.com/LsiM8kD.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="max",CNN Max
+https://cf.live.us.prd.media.max.com/live/use1/608_Ciw5MDQzZmU4Ni00MWM3LTVlYzItOTQ1ZC04NzVhMzZhYzg0NTItdXMtZWFzdBINYm9sdC1nbG8tcHJvZBoTEhFwYWNrYWdlci1tcDQtY2VuYw/main.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"01018d01867aeb50b8b8e2d8944c2587":"38e8b510aac873a0e2ed57c506f6b457","0102adfbd749399985f36d5bc80625a2":"ddb1218acdc8a0fa8fc86d557c14f327","01057c265213929fc37777e5678f638e":"00000000000000000000000000000000","0100033dd80043a75cea8adbb8716693":"8061adc9a7852957e1e33d580476e45e"}
+#EXTINF:-1 tvg-id="max1" tvg-logo="https://i.imgur.com/SDZP7cx.png" group-logo="https://i.imgur.com/SDZP7cx.png" group-title="max",MAX Live 1
